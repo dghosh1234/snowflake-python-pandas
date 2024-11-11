@@ -1,0 +1,8 @@
+pandas
+numpy
+snowflake-connector-python
+snowflake-snowpark-python
+matplotlib
+modin==0.28.1
+seaborn
+streamlit
