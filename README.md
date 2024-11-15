@@ -9,3 +9,7 @@ git pull
 -- to add git repositories in Visual Studio Code
 
 git clone <url>
+
+to commit in Git,
+-- press blue coloer Bitton in bottom "Commit to ....."--> Push to Origin -- Create Pull REquest
+Then o to GitHuib web and create pull for peer review
